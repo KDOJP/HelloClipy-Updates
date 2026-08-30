@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>HELLO CLIPY Updates</title>
+    <link>https://kdojp.github.io/HelloClipy-Updates/appcast.xml</link>
+    <description>Signed updates for HELLO CLIPY</description>
+    <language>en</language>
+  </channel>
+</rss>
