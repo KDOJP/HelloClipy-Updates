@@ -6,6 +6,24 @@
     <description>Signed updates for HELLO CLIPY</description>
     <language>en</language>
     <item>
+      <title>HELLO CLIPY 1.3.2</title>
+      <pubDate>Mon, 31 Aug 2026 06:15:02 +0900</pubDate>
+      <link>https://github.com/KDOJP/HelloClipy-Updates/releases/tag/v1.3.2</link>
+      <description><![CDATA[
+        <p>Adds full CloudKit history reconciliation and automatically repairs records missing from individual Macs.</p>
+        <p>Keeps menu-open synchronization fast with incremental updates, while periodic full audits detect count and record-ID differences.</p>
+        <p>Synchronizes history deletions safely and shows incremental-sync and full-audit status separately in the menu.</p>
+      ]]></description>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/KDOJP/HelloClipy-Updates/releases/download/v1.3.2/HelloClipy-1.3.2.zip"
+        length="15631741"
+        type="application/octet-stream"
+        sparkle:version="1.3.2"
+        sparkle:shortVersionString="1.3.2"
+        sparkle:edSignature="B6BekzCFebaGrTGDt1LqBuduKYsCqIMS62dRlC74eAPDmcgHBMbqCKJaCHW2exhL5eBIVUkB+LZS4I0847o/CA==" />
+    </item>
+    <item>
       <title>HELLO CLIPY 1.3.1</title>
       <pubDate>Mon, 31 Aug 2026 02:13:01 +0900</pubDate>
       <link>https://github.com/KDOJP/HelloClipy-Updates/releases/tag/v1.3.1</link>
