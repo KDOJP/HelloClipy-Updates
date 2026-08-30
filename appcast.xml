@@ -5,5 +5,22 @@
     <link>https://kdojp.github.io/HelloClipy-Updates/appcast.xml</link>
     <description>Signed updates for HELLO CLIPY</description>
     <language>en</language>
+    <item>
+      <title>HELLO CLIPY 1.3.0</title>
+      <pubDate>Mon, 31 Aug 2026 00:08:05 +0900</pubDate>
+      <link>https://github.com/KDOJP/HelloClipy-Updates/releases/tag/v1.3.0</link>
+      <description><![CDATA[
+        <p>Initial HELLO CLIPY release.</p>
+        <p>Signed with Developer ID and notarized by Apple for Apple Silicon and Intel Macs.</p>
+      ]]></description>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/KDOJP/HelloClipy-Updates/releases/download/v1.3.0/HelloClipy-1.3.0.zip"
+        length="15626251"
+        type="application/octet-stream"
+        sparkle:version="1.3.0"
+        sparkle:shortVersionString="1.3.0"
+        sparkle:edSignature="3E4HO/MWJ8XN9wiI69uf89q7O1drFS51VqnLV8PVaShV6kf4hF/HeKx3BC/mS2RyjmphhKIknQoOOsmGPDJCCg==" />
+    </item>
   </channel>
 </rss>
