@@ -6,6 +6,25 @@
     <description>Signed updates for HELLO CLIPY</description>
     <language>en</language>
     <item>
+      <title>HELLO CLIPY 1.4.0b3 Beta</title>
+      <pubDate>Tue, 01 Sep 2026 19:12:18 +0900</pubDate>
+      <link>https://github.com/KDOJP/HelloClipy-Updates/releases/tag/v1.4.0b3</link>
+      <description><![CDATA[
+        <p>Remaps synchronized Finder file paths when Macs use different account names.</p>
+        <p>Keeps the original path when it is valid, and uses the current user's matching relative path only when that file exists.</p>
+        <p>Supports modern file URLs and legacy filename clipboard records, including multiple-file selections.</p>
+      ]]></description>
+      <sparkle:channel>beta</sparkle:channel>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/KDOJP/HelloClipy-Updates/releases/download/v1.4.0b3/HelloClipy-1.4.0b3.zip"
+        length="15562033"
+        type="application/octet-stream"
+        sparkle:version="1.4.0b3"
+        sparkle:shortVersionString="1.4.0b3"
+        sparkle:edSignature="l+EPCZcpgYJEeVd/OIBJHPvVRO2HVpY+1uZ7CMTMg3XTLrjCBhc2GtDywSeC+NFaSishX1GbMoBzJ/J+aHL3Cg==" />
+    </item>
+    <item>
       <title>HELLO CLIPY 1.4.0b2 Beta</title>
       <pubDate>Tue, 01 Sep 2026 17:47:15 +0900</pubDate>
       <link>https://github.com/KDOJP/HelloClipy-Updates/releases/tag/v1.4.0b2</link>
