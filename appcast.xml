@@ -6,6 +6,25 @@
     <description>Signed updates for HELLO CLIPY</description>
     <language>en</language>
     <item>
+      <title>HELLO CLIPY 1.4.0b6 Beta</title>
+      <pubDate>Tue, 01 Sep 2026 22:25:11 +0900</pubDate>
+      <link>https://github.com/KDOJP/HelloClipy-Updates/releases/tag/v1.4.0b6</link>
+      <description><![CDATA[
+        <p>Fixes intermittent image and Finder-file pasting after selecting a synchronized clipboard history item.</p>
+        <p>Prevents HELLO CLIPY from capturing its own pasteboard write as a new, corrupted history entry.</p>
+        <p>Rejects unresolved macOS file-reference placeholders from synchronized binary assets.</p>
+      ]]></description>
+      <sparkle:channel>beta</sparkle:channel>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/KDOJP/HelloClipy-Updates/releases/download/v1.4.0b6/HelloClipy-1.4.0b6.zip"
+        length="15672470"
+        type="application/octet-stream"
+        sparkle:version="1.4.0b6"
+        sparkle:shortVersionString="1.4.0b6"
+        sparkle:edSignature="hRBK+hlQ50niX8C2hBA31Z4IxQKEfFMKihxtHYDussgxOtQkzmeRWfPdvodD2A62IAxSMeI/X5wmzkcFh5drCg==" />
+    </item>
+    <item>
       <title>HELLO CLIPY 1.4.0b5 Beta</title>
       <pubDate>Tue, 01 Sep 2026 21:51:02 +0900</pubDate>
       <link>https://github.com/KDOJP/HelloClipy-Updates/releases/tag/v1.4.0b5</link>
