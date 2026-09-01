@@ -18,11 +18,11 @@
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/KDOJP/HelloClipy-Updates/releases/download/v1.4.0b1/HelloClipy-1.4.0b1.zip"
-        length="15681098"
+        length="15549613"
         type="application/octet-stream"
         sparkle:version="1.4.0b1"
         sparkle:shortVersionString="1.4.0b1"
-        sparkle:edSignature="lLo6jdw27V1wxDznWBq5o/eITx74Ob+UYd+6Z8G4XNNmp+NgBZf/srcuUsKxasXSqtjMaR+4LDVYRO44YjCrCQ==" />
+        sparkle:edSignature="Tg/iReMbifmRcxNRZFrlKRO+sPkljnLihLQZDaJF471bCMiWewWXYtrrBJqvhbi0atJw0XdaJ0wGFosl7SOwAw==" />
     </item>
     <item>
       <title>HELLO CLIPY 1.3.2</title>
