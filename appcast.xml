@@ -6,6 +6,25 @@
     <description>Signed updates for HELLO CLIPY</description>
     <language>en</language>
     <item>
+      <title>HELLO CLIPY 1.4.0b2 Beta</title>
+      <pubDate>Tue, 01 Sep 2026 17:47:15 +0900</pubDate>
+      <link>https://github.com/KDOJP/HelloClipy-Updates/releases/tag/v1.4.0b2</link>
+      <description><![CDATA[
+        <p>Fixes CloudKit synchronization for snippet-folder hot keys in the production environment.</p>
+        <p>Reannounces existing snippet-folder hot-key settings so they can synchronize between Macs.</p>
+        <p>Keeps synchronization in an error state until the CloudKit upload succeeds, avoiding a false recovery after restarting the app.</p>
+      ]]></description>
+      <sparkle:channel>beta</sparkle:channel>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/KDOJP/HelloClipy-Updates/releases/download/v1.4.0b2/HelloClipy-1.4.0b2.zip"
+        length="15553434"
+        type="application/octet-stream"
+        sparkle:version="1.4.0b2"
+        sparkle:shortVersionString="1.4.0b2"
+        sparkle:edSignature="bKj+PoeQ6nYfNca+zrCNZ8cN4hJkZa5L2ADq/tbGSKjHyiAMy8oUwOUGBdWR+oJqizf4LEbtuPjC9zl7hm1PBw==" />
+    </item>
+    <item>
       <title>HELLO CLIPY 1.4.0b1 Beta</title>
       <pubDate>Tue, 01 Sep 2026 15:42:32 +0900</pubDate>
       <link>https://github.com/KDOJP/HelloClipy-Updates/releases/tag/v1.4.0b1</link>
