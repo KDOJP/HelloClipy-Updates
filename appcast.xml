@@ -6,6 +6,25 @@
     <description>Signed updates for HELLO CLIPY</description>
     <language>en</language>
     <item>
+      <title>HELLO CLIPY 1.4.0b7 Beta</title>
+      <pubDate>Tue, 01 Sep 2026 23:00:47 +0900</pubDate>
+      <link>https://github.com/KDOJP/HelloClipy-Updates/releases/tag/v1.4.0b7</link>
+      <description><![CDATA[
+        <p>Starts CloudKit file-asset synchronization immediately when clipboard history is added or received.</p>
+        <p>Fixes the delay where file metadata arrived on another Mac before the synchronized file payload.</p>
+        <p>Shows file payload status at the end of history titles: path only, waiting, partially synchronized, or synchronized.</p>
+      ]]></description>
+      <sparkle:channel>beta</sparkle:channel>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/KDOJP/HelloClipy-Updates/releases/download/v1.4.0b7/HelloClipy-1.4.0b7.zip"
+        length="15679219"
+        type="application/octet-stream"
+        sparkle:version="1.4.0b7"
+        sparkle:shortVersionString="1.4.0b7"
+        sparkle:edSignature="nwI6MvDGMJUNd270uR5c4Txc66aqKzC/U1Zvjn/z8bIERW7DSuD6+6U8Sn/Mq/CIYS4IB2sUsm+reBapohv1Dw==" />
+    </item>
+    <item>
       <title>HELLO CLIPY 1.4.0b6 Beta</title>
       <pubDate>Tue, 01 Sep 2026 22:25:11 +0900</pubDate>
       <link>https://github.com/KDOJP/HelloClipy-Updates/releases/tag/v1.4.0b6</link>
