@@ -6,6 +6,25 @@
     <description>Signed updates for HELLO CLIPY</description>
     <language>en</language>
     <item>
+      <title>HELLO CLIPY 1.4.0b4 Beta</title>
+      <pubDate>Tue, 01 Sep 2026 20:15:32 +0900</pubDate>
+      <link>https://github.com/KDOJP/HelloClipy-Updates/releases/tag/v1.4.0b4</link>
+      <description><![CDATA[
+        <p>Detects clipboard histories that exist in CloudKit but were missed by a Mac.</p>
+        <p>Automatically resets only the saved CloudKit change position and refetches missing records without deleting local history.</p>
+        <p>Verifies record IDs during incremental synchronization and reports success only after local and server inventories agree.</p>
+      ]]></description>
+      <sparkle:channel>beta</sparkle:channel>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/KDOJP/HelloClipy-Updates/releases/download/v1.4.0b4/HelloClipy-1.4.0b4.zip"
+        length="15576846"
+        type="application/octet-stream"
+        sparkle:version="1.4.0b4"
+        sparkle:shortVersionString="1.4.0b4"
+        sparkle:edSignature="o1b5XWxKCfdl93weZFbNcekXphPTp4WjTfmSQCaNiznZWI4LdiMO5qqHCddHJVcQkelFZ6EJnv3+2ocDVGM6Ag==" />
+    </item>
+    <item>
       <title>HELLO CLIPY 1.4.0b3 Beta</title>
       <pubDate>Tue, 01 Sep 2026 19:12:18 +0900</pubDate>
       <link>https://github.com/KDOJP/HelloClipy-Updates/releases/tag/v1.4.0b3</link>
