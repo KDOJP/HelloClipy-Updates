@@ -6,6 +6,25 @@
     <description>Signed updates for HELLO CLIPY</description>
     <language>en</language>
     <item>
+      <title>HELLO CLIPY 1.4.0b1 Beta</title>
+      <pubDate>Tue, 01 Sep 2026 15:42:32 +0900</pubDate>
+      <link>https://github.com/KDOJP/HelloClipy-Updates/releases/tag/v1.4.0b1</link>
+      <description><![CDATA[
+        <p>Beta release with an opt-in beta update channel in Preferences.</p>
+        <p>Synchronizes clipboard-history deletions safely using CloudKit tombstones and improves full-history deletion.</p>
+        <p>Synchronizes snippet-folder hot keys between Macs.</p>
+      ]]></description>
+      <sparkle:channel>beta</sparkle:channel>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/KDOJP/HelloClipy-Updates/releases/download/v1.4.0b1/HelloClipy-1.4.0b1.zip"
+        length="15681098"
+        type="application/octet-stream"
+        sparkle:version="1.4.0b1"
+        sparkle:shortVersionString="1.4.0b1"
+        sparkle:edSignature="lLo6jdw27V1wxDznWBq5o/eITx74Ob+UYd+6Z8G4XNNmp+NgBZf/srcuUsKxasXSqtjMaR+4LDVYRO44YjCrCQ==" />
+    </item>
+    <item>
       <title>HELLO CLIPY 1.3.2</title>
       <pubDate>Mon, 31 Aug 2026 06:15:02 +0900</pubDate>
       <link>https://github.com/KDOJP/HelloClipy-Updates/releases/tag/v1.3.2</link>
