@@ -36,11 +36,11 @@
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/KDOJP/HelloClipy-Updates/releases/download/v1.3.2/HelloClipy-1.3.2.zip"
-        length="15631741"
+        length="15500254"
         type="application/octet-stream"
         sparkle:version="1.3.2"
         sparkle:shortVersionString="1.3.2"
-        sparkle:edSignature="B6BekzCFebaGrTGDt1LqBuduKYsCqIMS62dRlC74eAPDmcgHBMbqCKJaCHW2exhL5eBIVUkB+LZS4I0847o/CA==" />
+        sparkle:edSignature="It2Ri7EbiNZSmxkcKhTBJFYeS3b38t2mzDANRL603l+BleY3o8ESmwM2asaEsJjg51ltg5zeMqHlq+JLMIktBw==" />
     </item>
     <item>
       <title>HELLO CLIPY 1.3.1</title>
@@ -54,11 +54,11 @@
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/KDOJP/HelloClipy-Updates/releases/download/v1.3.1/HelloClipy-1.3.1.zip"
-        length="15584700"
+        length="15453486"
         type="application/octet-stream"
         sparkle:version="1.3.1"
         sparkle:shortVersionString="1.3.1"
-        sparkle:edSignature="r6KlZmMHhEPgymC/uJ92VtINkU7IewhT9fjvet/6IdZt6EAuP1vsQ3dWIHoxwxi9iV/w7G53mLAIQeK3pFRuAQ==" />
+        sparkle:edSignature="5TVL8xykBkTu0yW2fNgPq95I9shB36HMSXh08oSY/w7I5e6PVbCl44bodbPqsCakYY5iHqZn10V10Z4+/4O1BA==" />
     </item>
     <item>
       <title>HELLO CLIPY 1.3.0</title>
@@ -71,11 +71,11 @@
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/KDOJP/HelloClipy-Updates/releases/download/v1.3.0/HelloClipy-1.3.0.zip"
-        length="15626251"
+        length="15447336"
         type="application/octet-stream"
         sparkle:version="1.3.0"
         sparkle:shortVersionString="1.3.0"
-        sparkle:edSignature="3E4HO/MWJ8XN9wiI69uf89q7O1drFS51VqnLV8PVaShV6kf4hF/HeKx3BC/mS2RyjmphhKIknQoOOsmGPDJCCg==" />
+        sparkle:edSignature="L0PXjHZR7Ew3fBp23P6weCIc/SHW5vtP+WIWEbjvgsxlIlo/d/lEKbAjlsUN1q65FBULuMwkrtcb+0BqJE7mBg==" />
     </item>
   </channel>
 </rss>
