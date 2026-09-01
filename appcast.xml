@@ -6,6 +6,25 @@
     <description>Signed updates for HELLO CLIPY</description>
     <language>en</language>
     <item>
+      <title>HELLO CLIPY 1.4.0b5 Beta</title>
+      <pubDate>Tue, 01 Sep 2026 21:51:02 +0900</pubDate>
+      <link>https://github.com/KDOJP/HelloClipy-Updates/releases/tag/v1.4.0b5</link>
+      <description><![CDATA[
+        <p>Moves clipboard binary payloads out of SQLite while keeping searchable text metadata in the database.</p>
+        <p>Uses compact external thumbnails and restores files from their original local path when available.</p>
+        <p>Synchronizes exact file assets through CloudKit Assets with user-configurable limits of 5 MB per file and 100 MB total by default.</p>
+      ]]></description>
+      <sparkle:channel>beta</sparkle:channel>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/KDOJP/HelloClipy-Updates/releases/download/v1.4.0b5/HelloClipy-1.4.0b5.zip"
+        length="15672124"
+        type="application/octet-stream"
+        sparkle:version="1.4.0b5"
+        sparkle:shortVersionString="1.4.0b5"
+        sparkle:edSignature="AZek7Sv9UAN+HkdJousV+weV15ajxWzE2iD4nx8ZVKChwPpIiInvDmWuACMsq1pdHki6DZsNRKLZ9KA8f8G9AA==" />
+    </item>
+    <item>
       <title>HELLO CLIPY 1.4.0b4 Beta</title>
       <pubDate>Tue, 01 Sep 2026 20:15:32 +0900</pubDate>
       <link>https://github.com/KDOJP/HelloClipy-Updates/releases/tag/v1.4.0b4</link>
